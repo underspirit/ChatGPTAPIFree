@@ -4,7 +4,7 @@ compatibility_date = "2023-03-03"
 usage_model = "bundled"
 env = { }
 kv_namespaces = [
-  { binding = "kv", id = "2a1e4806160b472dbd860bfc49705669" }
+  { binding = "kv", id = "45fe96cc90c74956ac5815e0e9465204" }
 ]
 
 [triggers]
